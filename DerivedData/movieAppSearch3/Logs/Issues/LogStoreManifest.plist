@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>E96A62A1-C79B-41B9-A746-38B40DDD492C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>E96A62A1-C79B-41B9-A746-38B40DDD492C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>movieAppSearch3-eeldrezpbrqehpebiqvxcwtiucev</string>
+			<key>timeStartedRecording</key>
+			<real>575176575.74418998</real>
+			<key>timeStoppedRecording</key>
+			<real>575176578.35077298</real>
+			<key>title</key>
+			<string>Build target movieAppSearch3</string>
+			<key>uniqueIdentifier</key>
+			<string>E96A62A1-C79B-41B9-A746-38B40DDD492C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

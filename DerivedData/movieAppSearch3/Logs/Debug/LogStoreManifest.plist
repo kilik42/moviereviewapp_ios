@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B64CC16-2DC9-4B50-A242-CC478B5B311C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B64CC16-2DC9-4B50-A242-CC478B5B311C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>movieAppSearch3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>movieAppSearch3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug movieAppSearch3</string>
+			<key>timeStartedRecording</key>
+			<real>575175842.59352601</real>
+			<key>timeStoppedRecording</key>
+			<real>575176055.78833497</real>
+			<key>title</key>
+			<string>Debug movieAppSearch3</string>
+			<key>uniqueIdentifier</key>
+			<string>0B64CC16-2DC9-4B50-A242-CC478B5B311C</string>
+		</dict>
+		<key>8AB2CA3E-1EB1-4F85-9071-BF7FBC1C5EA3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AB2CA3E-1EB1-4F85-9071-BF7FBC1C5EA3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>movieAppSearch3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>movieAppSearch3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug movieAppSearch3</string>
+			<key>timeStartedRecording</key>
+			<real>575176578.35774696</real>
+			<key>timeStoppedRecording</key>
+			<real>575176625.08939505</real>
+			<key>title</key>
+			<string>Debug movieAppSearch3</string>
+			<key>uniqueIdentifier</key>
+			<string>8AB2CA3E-1EB1-4F85-9071-BF7FBC1C5EA3</string>
+		</dict>
+		<key>C6F18D26-6949-4B27-832E-F28925248185</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C6F18D26-6949-4B27-832E-F28925248185.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>movieAppSearch3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>movieAppSearch3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug movieAppSearch3</string>
+			<key>timeStartedRecording</key>
+			<real>575175726.81649697</real>
+			<key>timeStoppedRecording</key>
+			<real>575175775.04333401</real>
+			<key>title</key>
+			<string>Debug movieAppSearch3</string>
+			<key>uniqueIdentifier</key>
+			<string>C6F18D26-6949-4B27-832E-F28925248185</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

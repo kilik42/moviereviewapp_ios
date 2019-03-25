@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b11f7ac7b96b0e0fe3103470b772ddc8"
+build_time: [1553483775, 754836000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/movieReview/movieAppSearch3/movieAppSearch3/AppDelegate.swift": [1553481726, 0]
+  "/Users/marvinevins/Library/Autosave Information/movieReview/movieAppSearch3/movieAppSearch3/MovieViewController.swift": [1553483767, 0]
